@@ -1,0 +1,23 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "TOP_Form",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass --watch ./sass/main.scss:./public/css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Florent-V/TOP_Form.git"
+  },
+  "keywords": [
+    "Form"
+  ],
+  "author": "Florent Vasseur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Florent-V/TOP_Form/issues"
+  },
+  "homepage": "https://github.com/Florent-V/TOP_Form#readme"
+}
